@@ -1,0 +1,14 @@
+C:\Users\Gubin Zhao\OneDrive\桌面\COMP282A2\COMP282A2\bin\Debug\COMP282A2.exe.config
+C:\Users\Gubin Zhao\OneDrive\桌面\COMP282A2\COMP282A2\bin\Debug\COMP282A2.exe
+C:\Users\Gubin Zhao\OneDrive\桌面\COMP282A2\COMP282A2\bin\Debug\COMP282A2.pdb
+C:\Users\Gubin Zhao\OneDrive\桌面\COMP282A2\COMP282A2\bin\Debug\en-GB\COMP282A2.resources.dll
+C:\Users\Gubin Zhao\OneDrive\桌面\COMP282A2\COMP282A2\obj\Debug\COMP282A2.csproj.AssemblyReference.cache
+C:\Users\Gubin Zhao\OneDrive\桌面\COMP282A2\COMP282A2\obj\Debug\COMP282A2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gubin Zhao\OneDrive\桌面\COMP282A2\COMP282A2\obj\Debug\COMP282A2.MainWindow.resources
+C:\Users\Gubin Zhao\OneDrive\桌面\COMP282A2\COMP282A2\obj\Debug\COMP282A2.Properties.Resources.resources
+C:\Users\Gubin Zhao\OneDrive\桌面\COMP282A2\COMP282A2\obj\Debug\COMP282A2.MainWindow.en-GB.resources
+C:\Users\Gubin Zhao\OneDrive\桌面\COMP282A2\COMP282A2\obj\Debug\COMP282A2.csproj.GenerateResource.cache
+C:\Users\Gubin Zhao\OneDrive\桌面\COMP282A2\COMP282A2\obj\Debug\COMP282A2.csproj.CoreCompileInputs.cache
+C:\Users\Gubin Zhao\OneDrive\桌面\COMP282A2\COMP282A2\obj\Debug\en-GB\COMP282A2.resources.dll
+C:\Users\Gubin Zhao\OneDrive\桌面\COMP282A2\COMP282A2\obj\Debug\COMP282A2.exe
+C:\Users\Gubin Zhao\OneDrive\桌面\COMP282A2\COMP282A2\obj\Debug\COMP282A2.pdb
